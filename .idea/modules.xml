@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Focusapp.iml" filepath="$PROJECT_DIR$/.idea/modules/Focusapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Focusapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Focusapp.app.iml" />
     </modules>
   </component>
 </project>
